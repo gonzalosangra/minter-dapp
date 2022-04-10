@@ -1,9 +1,9 @@
 const contractAddress = "0x79f682ccb36Af75CD2F1A43aDDbe99bC8daB8e28"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the zad Clown NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The zad clown NFT Project is a decentralized, It is an nft project with the purpose of raising funds for a new project with greater scope and thus be able to help a cause in this society, we are open to any organization that needs our help and we listen to ideas. We hope you enjoy this collection.  ';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
